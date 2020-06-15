@@ -1,8 +1,8 @@
 /*
  * @Author: qinsensen
  * @Date: 2020-06-15 19:25:38
- * @LastEditors: qinsensen
- * @LastEditTime: 2020-06-15 19:25:59
+ * @LastEditors: Please set LastEditors
+ * @LastEditTime: 2020-06-15 23:49:38
  * @Description: 
  */ 
 import styled from'styled-components';
@@ -17,8 +17,8 @@ export const SliderContainer = styled.div`
   background: white;
   .before {
     position: absolute;
-    top: 0;
-    height: 60%;
+    top: -300px;
+    height: 400px;
     width: 100%;
     background: ${style["theme-color"]};
   }

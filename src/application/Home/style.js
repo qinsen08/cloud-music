@@ -1,8 +1,8 @@
 /*
  * @Author: qinsensen
  * @Date: 2020-06-15 18:33:43
- * @LastEditors: qinsensen
- * @LastEditTime: 2020-06-15 18:45:32
+ * @LastEditors: Please set LastEditors
+ * @LastEditTime: 2020-06-15 23:13:04
  * @Description: 
  */ 
 import styled from 'styled-components'
@@ -27,7 +27,7 @@ export const Tab = styled.div `
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    background: ${globalStyle ["theme-color"]};
+    background: ${globalStyle["theme-color"]};
     a {
     flex: 1;
     padding: 2px 0;
